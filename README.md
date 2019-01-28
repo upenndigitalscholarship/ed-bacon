@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Join Our Ed Bacon Photo Crowdsourcing Project
 
-You can use the [editor on GitHub](https://github.com/upenndigitalscholarship/edbacon/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+In 2004, Ed Bacon gave the Fisher Fine Arts Library his collection of research and lecture slides, which he had accumulated over the course of his career as a city planner and educator. These slides, now digitized, offer a critical glimpse into Bacon's scholarly pursuits as well as the physical evolution of Philadelphia. Unfortunately, most of the slides he gave the library were not identified or labeled, making it difficult to determine who or what is in the picture.
+ 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+So we turn to the world with the hope that people can help us identify these images by tagging them, uploading related images, and offering remarks. Thanks in advance for any tips and suggestions! Questions? Please contact me, Hannah Bennett, hbennett@upenn.edu.
+
 
 ### Markdown
 
