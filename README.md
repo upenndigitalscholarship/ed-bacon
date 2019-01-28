@@ -5,6 +5,8 @@ In 2004, Ed Bacon gave the Fisher Fine Arts Library his collection of research a
 
 So we turn to the world with the hope that people can help us identify these images by tagging them, uploading related images, and offering remarks. Thanks in advance for any tips and suggestions! Questions? Please contact me, Hannah Bennett, hbennett@upenn.edu.
 
+**[Visit the FLICKR site](https://www.flickr.com/photos/ed_bacon/)**
+
 
 ### Markdown
 
